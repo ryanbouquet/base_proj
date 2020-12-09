@@ -1,3 +1,3 @@
 view: test {
-  sql_table_name: @{test}.test ;;
+  sql_table_name: @{test}.testiiiing ;;
 }
